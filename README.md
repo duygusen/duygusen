@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duygu Şen Tosunoğlu</h1>
+<h1 align="center">Hi 👋, I'm Duygu </h1>
 <h3 align="left">Fullstack developer from Türkiye</h3>
 
 - 📫 How to reach me **seenduygu@gmail.com** or **https://linkedin.com/in/duygu-şen-tosunoğlu**
