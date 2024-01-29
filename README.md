@@ -2,7 +2,6 @@
 <h3 align="left">Fullstack developer from Türkiye</h3>
 
 - 📫 How to reach me **seenduygu@gmail.com** or **https://linkedin.com/in/duygu-şen-tosunoğlu**
-- 🔭 My java team project we are currently working on [Rent A Car Project](https://github.com/EarthCaspian/rentACar)
 - 🔭 My C# Project [Her Seyahat Bir Yaşam Project](https://www.loom.com/share/47e68d0a455d4c9794521b7724c9035c)  [Github Proje Linki](https://github.com/duygusen/HerSeyahatBirYasam_BlogProject_.Net)
 
 <h3 align="left">Languages and Tools</h3>
